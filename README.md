@@ -1,8 +1,11 @@
-• Set up a Jenkins pipeline to automate the build and deployment process of a Java banking application.
-• Used Maven to compile the source code and generate deployable WAR files.
-• Containerized the application by creating Docker images and publishing them to DockerHub.
-• Deployed the application on a Kubernetes cluster using deployment and service manifests.
-• Added monitoring for the cluster and servers using Prometheus and Grafana.
+Designed and implemented an end-to-end CI/CD pipeline for a Java banking application using Jenkins, Docker and Kubernetes.
+Automated the application build process using Maven to generate deployable WAR artifacts.
+Built Docker images for the application and pushed them to DockerHub container registry.
+Provisioned infrastructure using Terraform and configured servers using Ansible for DevOps tooling setup.
+Deployed application containers to a Kubernetes cluster consisting of one master and multiple worker nodes.
+Integrated Jenkins with Kubernetes using the Publish over SSH plugin to automate deployment with kubectl manifests.
+Implemented infrastructure and application monitoring using Prometheus and Grafana deployed through Helm charts.
+Configured email notifications for pipeline status and cluster alerts to improve operational visibility.
 
 
 After successfully deploying
