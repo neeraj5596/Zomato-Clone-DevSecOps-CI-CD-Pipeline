@@ -1,3 +1,10 @@
+• Set up a Jenkins pipeline to automate the build and deployment process of a Java banking application.
+• Used Maven to compile the source code and generate deployable WAR files.
+• Containerized the application by creating Docker images and publishing them to DockerHub.
+• Deployed the application on a Kubernetes cluster using deployment and service manifests.
+• Added monitoring for the cluster and servers using Prometheus and Grafana.
+
+
 After successfully deploying
 ===============================
 
