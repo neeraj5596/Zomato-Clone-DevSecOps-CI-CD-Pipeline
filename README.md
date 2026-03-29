@@ -423,7 +423,7 @@ This project demonstrates a **complete DevOps pipeline with integrated monitorin
 Cloud & DevOps Engineer
 Skills: Linux • Docker • Jenkins • Kubernetes • Terraform • AWS • Azure
 
-Email: [neerajverma9264@gmail.com](mailto:neerajverma9264@gmail.com)
+Email: [neerajverma9264@gmail.com](mailto:neerajbhanu143@@gmail.com)
 
 
 
