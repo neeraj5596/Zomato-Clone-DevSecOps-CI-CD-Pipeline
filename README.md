@@ -1,4 +1,4 @@
-# 🚀DevOps CI/CD Pipeline with Monitoring (Jenkins + Docker + SonarQube + Trivy + Prometheus + Grafana using Helm)
+# 🚀 DevOps CI/CD Pipeline with Monitoring (Jenkins + Docker + SonarQube + Trivy + Prometheus + Grafana using Helm)
 
 This project demonstrates a **complete production-style DevOps pipeline** deployed on an AWS EC2 Ubuntu instance.
 
@@ -423,7 +423,7 @@ This project demonstrates a **complete DevOps pipeline with integrated monitorin
 Cloud & DevOps Engineer
 Skills: Linux • Docker • Jenkins • Kubernetes • Terraform • AWS • Azure
 
-Email: [neerajverma9264@gmail.com](mailto:neerajbhanu143@@gmail.com)
+Email: [neerajbhanu143@gmail.com](mailto:neerajbhanu143@@gmail.com)
 
 
 
